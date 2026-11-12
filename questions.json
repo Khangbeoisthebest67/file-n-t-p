@@ -1,0 +1,1250 @@
+[
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Ai được coi là người đặt nền móng cho phương pháp thực nghiệm trong Vật lí học?",
+  "o": [
+   "Galileo Galilei",
+   "Aristotle",
+   "Ptolemy",
+   "Democritus"
+  ],
+  "c": 0,
+  "e": "Galileo dùng thí nghiệm có kiểm soát và đo đạc để kiểm chứng giả thuyết."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Các nhà triết học tự nhiên Hy Lạp cổ đại chủ yếu nghiên cứu thế giới tự nhiên bằng phương pháp nào?",
+  "o": [
+   "Thí nghiệm kiểm chứng có đo đạc chính xác",
+   "Quan sát và suy luận",
+   "Mô phỏng bằng máy tính",
+   "Phân tích dữ liệu lớn"
+  ],
+  "c": 1,
+  "e": "Thời cổ đại chủ yếu dựa vào quan sát và lập luận, ít dùng thí nghiệm kiểm chứng."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Newton công bố công trình Các nguyên lí toán học của triết học tự nhiên vào năm nào?",
+  "o": [
+   "1543",
+   "1831",
+   "1687",
+   "1905"
+  ],
+  "c": 2,
+  "e": "Công trình này (Principia) công bố năm 1687, trình bày ba định luật chuyển động và định luật vạn vật hấp dẫn."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Nhờ kính thiên văn, Galileo đã quan sát và phát hiện ra điều nào sau đây?",
+  "o": [
+   "Thiên Vương tinh",
+   "Hải Vương tinh",
+   "Hạt nhân nguyên tử",
+   "Bốn vệ tinh lớn của Mộc tinh"
+  ],
+  "c": 3,
+  "e": "Các vệ tinh của Mộc tinh là bằng chứng quan trọng ủng hộ mô hình nhật tâm."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Ba định luật Newton thuộc lĩnh vực nào của vật lí cổ điển?",
+  "o": [
+   "Cơ học",
+   "Quang học",
+   "Nhiệt học",
+   "Điện từ học"
+  ],
+  "c": 0,
+  "e": "Ba định luật Newton là nền tảng của cơ học (động lực học)."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Định luật vạn vật hấp dẫn do nhà khoa học nào phát hiện?",
+  "o": [
+   "Michael Faraday",
+   "Isaac Newton",
+   "James Maxwell",
+   "Albert Einstein"
+  ],
+  "c": 1,
+  "e": "Newton chỉ ra lực hấp dẫn giữa hai vật tỉ lệ với tích khối lượng và tỉ lệ nghịch với bình phương khoảng cách."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Nhà khoa học Hy Lạp cổ đại nào nổi tiếng với nghiên cứu về đòn bẩy và lực đẩy tác dụng lên vật trong chất lỏng?",
+  "o": [
+   "Copernicus",
+   "Kepler",
+   "Archimedes",
+   "Newton"
+  ],
+  "c": 2,
+  "e": "Archimedes (Ác-si-mét) là tác giả của định luật về lực đẩy chất lỏng."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Mô hình nhật tâm (Mặt Trời ở trung tâm) do ai đề xuất?",
+  "o": [
+   "Ptolemy",
+   "Aristotle",
+   "Archimedes",
+   "Copernicus"
+  ],
+  "c": 3,
+  "e": "Copernicus (Cô-péc-ních) đề xuất mô hình nhật tâm vào thế kỉ XVI."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Mô hình địa tâm (Trái Đất ở trung tâm vũ trụ) gắn với tên tuổi nhà khoa học nào?",
+  "o": [
+   "Ptolemy",
+   "Copernicus",
+   "Galileo",
+   "Kepler"
+  ],
+  "c": 0,
+  "e": "Mô hình địa tâm của Ptolemy được chấp nhận trong thời gian dài trước khi bị mô hình nhật tâm thay thế."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Kepler đã phát hiện ra điều gì về chuyển động của các hành tinh?",
+  "o": [
+   "Các hành tinh chuyển động quanh Trái Đất theo quỹ đạo tròn",
+   "Các hành tinh chuyển động quanh Mặt Trời theo quỹ đạo elip",
+   "Các hành tinh đứng yên trên nền trời",
+   "Các hành tinh chuyển động thẳng đều"
+  ],
+  "c": 1,
+  "e": "Ba định luật Kepler mô tả quỹ đạo elip của các hành tinh."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Thành tựu nào của vật lí gắn liền với cuộc cách mạng công nghiệp lần thứ nhất?",
+  "o": [
+   "Máy tính điện tử",
+   "Mạng Internet",
+   "Nhiệt động lực học và động cơ hơi nước",
+   "Trí tuệ nhân tạo"
+  ],
+  "c": 2,
+  "e": "Động cơ hơi nước đưa sản xuất sang giai đoạn cơ khí hóa."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Cuộc cách mạng công nghiệp lần thứ hai gắn liền với việc sử dụng rộng rãi nguồn năng lượng nào?",
+  "o": [
+   "Sức nước và sức gió",
+   "Năng lượng hơi nước",
+   "Năng lượng của trí tuệ nhân tạo",
+   "Điện năng"
+  ],
+  "c": 3,
+  "e": "Nhờ các thành tựu về điện từ học, điện năng được dùng rộng rãi trong sản xuất hàng loạt."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Cuộc cách mạng công nghiệp lần thứ ba gắn liền với sự phát triển của lĩnh vực nào?",
+  "o": [
+   "Điện tử, công nghệ thông tin và tự động hóa",
+   "Động cơ hơi nước",
+   "Kính thiên văn",
+   "Máy kéo sợi"
+  ],
+  "c": 0,
+  "e": "Chất bán dẫn và máy tính là nền tảng của cuộc cách mạng này."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Công nghệ nào là đặc trưng của cuộc cách mạng công nghiệp lần thứ tư?",
+  "o": [
+   "Động cơ hơi nước",
+   "Trí tuệ nhân tạo và Internet vạn vật",
+   "Đèn dây tóc",
+   "Máy kéo sợi"
+  ],
+  "c": 1,
+  "e": "Cách mạng công nghiệp 4.0 gắn với AI, Internet vạn vật, dữ liệu lớn, robot."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Ai là người xây dựng hệ phương trình thống nhất điện học và từ học (thuyết điện từ)?",
+  "o": [
+   "Isaac Newton",
+   "Johannes Kepler",
+   "James Clerk Maxwell",
+   "Galileo Galilei"
+  ],
+  "c": 2,
+  "e": "Maxwell còn dự đoán sự tồn tại của sóng điện từ và coi ánh sáng là sóng điện từ."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Michael Faraday nổi tiếng với việc phát hiện hiện tượng nào?",
+  "o": [
+   "Phóng xạ tự nhiên",
+   "Rơi tự do",
+   "Lực vạn vật hấp dẫn",
+   "Cảm ứng điện từ"
+  ],
+  "c": 3,
+  "e": "Hiện tượng cảm ứng điện từ là cơ sở của máy phát điện."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Vật lí cổ điển phát triển mạnh trong giai đoạn nào?",
+  "o": [
+   "Từ thế kỉ XVII đến cuối thế kỉ XIX",
+   "Trước Công nguyên",
+   "Từ giữa thế kỉ XX đến nay",
+   "Chỉ trong thế kỉ XXI"
+  ],
+  "c": 0,
+  "e": "Vật lí cổ điển hình thành từ Galileo, Newton và hoàn thiện đến cuối thế kỉ XIX."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Nhóm nào sau đây gồm các lĩnh vực của vật lí cổ điển?",
+  "o": [
+   "Cơ học lượng tử, thuyết tương đối, vật lí hạt cơ bản",
+   "Cơ học, nhiệt học, quang học, điện từ học",
+   "Vật lí hạt nhân, vật lí plasma, vật lí nano",
+   "Vật lí thiên văn, vật lí y sinh, vật lí địa cầu"
+  ],
+  "c": 1,
+  "e": "Các lĩnh vực còn lại thuộc vật lí hiện đại hoặc các lĩnh vực nghiên cứu hiện nay."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Vật lí hiện đại bắt đầu hình thành vào thời gian nào?",
+  "o": [
+   "Thế kỉ V trước Công nguyên",
+   "Thế kỉ XVI",
+   "Đầu thế kỉ XX",
+   "Giữa thế kỉ XVIII"
+  ],
+  "c": 2,
+  "e": "Thuyết lượng tử (1900) và thuyết tương đối (1905) mở đầu vật lí hiện đại."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Hai lí thuyết nền tảng của vật lí hiện đại là gì?",
+  "o": [
+   "Cơ học Newton và thuyết nhật tâm",
+   "Nhiệt động lực học và quang học hình học",
+   "Điện từ học và định luật Archimedes",
+   "Thuyết tương đối và cơ học lượng tử"
+  ],
+  "c": 3,
+  "e": "Hai lí thuyết này giải thích các hiện tượng mà vật lí cổ điển không giải thích được."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Albert Einstein công bố thuyết tương đối hẹp vào năm nào?",
+  "o": [
+   "1905",
+   "1687",
+   "1831",
+   "1945"
+  ],
+  "c": 0,
+  "e": "Năm 1905 là năm Einstein công bố nhiều công trình quan trọng, trong đó có thuyết tương đối hẹp."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Ai đã đề xuất giả thuyết về lượng tử năng lượng vào năm 1900?",
+  "o": [
+   "James Maxwell",
+   "Max Planck",
+   "Johannes Kepler",
+   "Michael Faraday"
+  ],
+  "c": 1,
+  "e": "Giả thuyết của Planck mở đầu cho cơ học lượng tử."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Hiện tượng phóng xạ tự nhiên được phát hiện lần đầu bởi nhà khoa học nào?",
+  "o": [
+   "Isaac Newton",
+   "James Maxwell",
+   "Henri Becquerel",
+   "Galileo Galilei"
+  ],
+  "c": 2,
+  "e": "Becquerel phát hiện phóng xạ năm 1896 khi nghiên cứu muối uranium."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Điểm khác biệt cơ bản của phương pháp thực nghiệm so với phương pháp của triết học tự nhiên cổ đại là gì?",
+  "o": [
+   "Chỉ dựa vào suy luận logic",
+   "Chỉ dựa vào niềm tin và truyền thống",
+   "Không cần đo đạc số liệu",
+   "Kết luận phải được kiểm chứng bằng thí nghiệm và số liệu đo đạc"
+  ],
+  "c": 3,
+  "e": "Thí nghiệm kiểm chứng giả thuyết là đặc trưng của vật lí thực nghiệm."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Galileo dùng thí nghiệm mặt phẳng nghiêng để nghiên cứu hiện tượng nào?",
+  "o": [
+   "Chuyển động nhanh dần của vật (liên quan đến sự rơi)",
+   "Sự khúc xạ ánh sáng",
+   "Hiện tượng cảm ứng điện từ",
+   "Sự nở vì nhiệt"
+  ],
+  "c": 0,
+  "e": "Ông dùng mặt phẳng nghiêng để làm chậm chuyển động và đo đạc dễ hơn."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Theo Galileo, nếu bỏ qua sức cản của không khí, vật nặng và vật nhẹ khi rơi tự do sẽ như thế nào?",
+  "o": [
+   "Vật nặng rơi nhanh hơn",
+   "Rơi nhanh như nhau",
+   "Vật nhẹ rơi nhanh hơn",
+   "Cả hai đều đứng yên"
+  ],
+  "c": 1,
+  "e": "Kết luận này bác bỏ quan điểm cổ đại cho rằng vật nặng rơi nhanh hơn."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Quan điểm vật nặng rơi nhanh hơn vật nhẹ thuộc về nhà triết học nào, về sau bị Galileo bác bỏ bằng thực nghiệm?",
+  "o": [
+   "Newton",
+   "Faraday",
+   "Aristotle",
+   "Maxwell"
+  ],
+  "c": 2,
+  "e": "Aristotle (A-ri-xtốt) là nhà triết học Hy Lạp cổ đại có ảnh hưởng rất lớn."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Đặc điểm nổi bật của vật lí từ thời Galileo và Newton là gì?",
+  "o": [
+   "Chỉ dựa vào quan sát bằng mắt thường",
+   "Chỉ dựa vào tín ngưỡng",
+   "Không dùng toán học",
+   "Kết hợp thực nghiệm với mô hình toán học"
+  ],
+  "c": 3,
+  "e": "Sự kết hợp giữa thực nghiệm và toán học là nền tảng của vật lí hiện đại."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Cơ học Newton có vai trò quan trọng nào đối với sự phát triển của vật lí?",
+  "o": [
+   "Giải thích chuyển động từ vật trên Trái Đất đến các thiên thể",
+   "Chỉ giải thích chuyển động của hạt nguyên tử",
+   "Chỉ giải thích hiện tượng điện",
+   "Chỉ giải thích hiện tượng ánh sáng"
+  ],
+  "c": 0,
+  "e": "Cơ học Newton thống nhất cách giải thích chuyển động trên Trái Đất và trên bầu trời."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Nhiệt động lực học chủ yếu nghiên cứu vấn đề gì?",
+  "o": [
+   "Chuyển động của các hành tinh",
+   "Các quy luật về nhiệt, công và sự chuyển hóa năng lượng",
+   "Cấu tạo của hạt nhân nguyên tử",
+   "Sự truyền ánh sáng trong sợi quang"
+  ],
+  "c": 1,
+  "e": "Nhiệt động lực học là cơ sở lí thuyết của động cơ nhiệt."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Thành tựu nào sau đây thuộc vật lí hiện đại?",
+  "o": [
+   "Ba định luật Newton",
+   "Định luật Archimedes",
+   "Thuyết tương đối của Einstein",
+   "Ba định luật Kepler"
+  ],
+  "c": 2,
+  "e": "Các thành tựu còn lại thuộc giai đoạn trước thế kỉ XX."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Ai đã đề xuất mô hình nguyên tử có hạt nhân vào năm 1911?",
+  "o": [
+   "Isaac Newton",
+   "Galileo Galilei",
+   "James Maxwell",
+   "Ernest Rutherford"
+  ],
+  "c": 3,
+  "e": "Thí nghiệm tán xạ hạt alpha của Rutherford dẫn đến mô hình nguyên tử có hạt nhân."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Ai có cải tiến quan trọng đối với máy hơi nước, góp phần vào cách mạng công nghiệp lần thứ nhất?",
+  "o": [
+   "James Watt",
+   "Albert Einstein",
+   "Max Planck",
+   "Henri Becquerel"
+  ],
+  "c": 0,
+  "e": "Cải tiến của James Watt làm máy hơi nước hiệu quả và được dùng rộng rãi."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Phát minh nào của vật lí chất rắn đã mở đường cho kỉ nguyên điện tử và máy tính?",
+  "o": [
+   "Máy hơi nước",
+   "Transistor (linh kiện bán dẫn)",
+   "Kính thiên văn",
+   "Đòn bẩy"
+  ],
+  "c": 1,
+  "e": "Transistor là thành phần cơ bản của vi mạch trong máy tính và điện thoại."
+ },
+ {
+  "b": "Bài 1: Sơ lược về sự phát triển của Vật lí học",
+  "q": "Thứ tự nào đúng theo tiến trình phát triển của Vật lí học?",
+  "o": [
+   "Vật lí hiện đại → vật lí cổ điển → triết học tự nhiên cổ đại",
+   "Vật lí cổ điển → triết học tự nhiên → vật lí hiện đại",
+   "Triết học tự nhiên cổ đại → vật lí thực nghiệm → vật lí cổ điển → vật lí hiện đại",
+   "Vật lí thực nghiệm → vật lí hiện đại → triết học tự nhiên"
+  ],
+  "c": 2,
+  "e": "Mỗi giai đoạn kế thừa và mở rộng giai đoạn trước."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Đối tượng nghiên cứu của Vật lí học là gì?",
+  "o": [
+   "Chỉ các phản ứng hóa học",
+   "Chỉ cấu tạo cơ thể sinh vật",
+   "Chỉ các hiện tượng xã hội",
+   "Các dạng vận động của vật chất và năng lượng cùng sự tương tác giữa chúng"
+  ],
+  "c": 3,
+  "e": "Vật lí nghiên cứu những quy luật chung nhất của tự nhiên."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Cơ học nghiên cứu nội dung nào?",
+  "o": [
+   "Chuyển động của vật và lực gây ra chuyển động",
+   "Sự truyền ánh sáng",
+   "Cấu tạo hạt nhân",
+   "Dòng điện trong chất bán dẫn"
+  ],
+  "c": 0,
+  "e": "Cơ học nghiên cứu chuyển động và tương tác (lực) giữa các vật."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Nhiệt học nghiên cứu nội dung nào?",
+  "o": [
+   "Sóng âm trong không khí",
+   "Nhiệt độ, sự truyền và chuyển hóa nhiệt",
+   "Các hạt cơ bản",
+   "Từ trường của Trái Đất"
+  ],
+  "c": 1,
+  "e": "Nhiệt học liên quan đến nhiệt độ, nhiệt lượng và các động cơ nhiệt."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Quang học nghiên cứu nội dung nào?",
+  "o": [
+   "Chuyển động của hành tinh",
+   "Lực hấp dẫn",
+   "Ánh sáng và các hiện tượng như phản xạ, khúc xạ",
+   "Phản ứng phân hạch"
+  ],
+  "c": 2,
+  "e": "Quang học nghiên cứu bản chất, sự truyền và tương tác của ánh sáng."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Âm học nghiên cứu nội dung nào?",
+  "o": [
+   "Sự nở vì nhiệt",
+   "Tia X",
+   "Hiện tượng cảm ứng điện từ",
+   "Sự phát sinh, lan truyền và tác dụng của sóng âm"
+  ],
+  "c": 3,
+  "e": "Âm học nghiên cứu sóng âm, kể cả hạ âm và siêu âm."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Điện từ học nghiên cứu nội dung nào?",
+  "o": [
+   "Điện tích, dòng điện, từ trường và tương tác điện từ",
+   "Chuyển động của vật rơi tự do",
+   "Sự nóng chảy của kim loại",
+   "Cấu tạo của các ngôi sao"
+  ],
+  "c": 0,
+  "e": "Điện từ học là cơ sở của máy phát điện, động cơ điện và truyền thông không dây."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí nguyên tử và hạt nhân nghiên cứu nội dung nào?",
+  "o": [
+   "Chuyển động của xe trên đường",
+   "Cấu tạo nguyên tử, hạt nhân, phóng xạ và phản ứng hạt nhân",
+   "Sự khúc xạ qua thấu kính",
+   "Sự truyền âm trong nước"
+  ],
+  "c": 1,
+  "e": "Lĩnh vực này liên quan đến năng lượng hạt nhân và đồng vị phóng xạ."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí hạt cơ bản nghiên cứu nội dung nào?",
+  "o": [
+   "Chuyển động của dòng chất lỏng",
+   "Quỹ đạo của vệ tinh nhân tạo",
+   "Các hạt cấu tạo nên vật chất và các tương tác cơ bản giữa chúng",
+   "Sự truyền nhiệt trong nhà"
+  ],
+  "c": 2,
+  "e": "Đối tượng là các hạt như quark, electron và các lực cơ bản."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí chất rắn nghiên cứu nội dung nào?",
+  "o": [
+   "Chuyển động của các hành tinh",
+   "Sự truyền sóng vô tuyến trong không gian",
+   "Các hạt trong máy gia tốc",
+   "Cấu trúc và tính chất của vật rắn như tinh thể, bán dẫn, siêu dẫn"
+  ],
+  "c": 3,
+  "e": "Đây là cơ sở của công nghệ vật liệu và linh kiện điện tử."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí thiên văn nghiên cứu đối tượng nào?",
+  "o": [
+   "Các thiên thể như sao, thiên hà và vũ trụ",
+   "Cấu trúc tinh thể muối ăn",
+   "Dòng điện trong dây dẫn",
+   "Sóng âm trong không khí"
+  ],
+  "c": 0,
+  "e": "Vật lí thiên văn áp dụng các định luật vật lí để nghiên cứu vũ trụ."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí plasma nghiên cứu trạng thái nào của vật chất?",
+  "o": [
+   "Chất rắn kết tinh",
+   "Plasma, tức khí bị ion hóa mạnh",
+   "Chất lỏng ở nhiệt độ phòng",
+   "Chất khí lí tưởng ở nhiệt độ thấp"
+  ],
+  "c": 1,
+  "e": "Plasma là trạng thái phổ biến trong Mặt Trời và các ngôi sao."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí y sinh là lĩnh vực nào?",
+  "o": [
+   "Nghiên cứu chuyển động của hành tinh",
+   "Nghiên cứu về hạt cơ bản",
+   "Ứng dụng vật lí vào nghiên cứu y học và sinh học",
+   "Nghiên cứu về plasma"
+  ],
+  "c": 2,
+  "e": "Chụp ảnh y học, xạ trị và các thiết bị đo sinh học đều là sản phẩm của lĩnh vực này."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí địa cầu nghiên cứu về điều gì?",
+  "o": [
+   "Các ngôi sao xa xôi",
+   "Hạt nhân nguyên tử",
+   "Dòng điện trong mạch điện",
+   "Trái Đất, như động đất, từ trường Trái Đất"
+  ],
+  "c": 3,
+  "e": "Vật lí địa cầu áp dụng vật lí để tìm hiểu cấu trúc và hiện tượng của Trái Đất."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí thực nghiệm chủ yếu làm công việc gì?",
+  "o": [
+   "Thực hiện thí nghiệm, đo đạc để kiểm chứng giả thuyết",
+   "Chỉ xây dựng các công thức toán học",
+   "Chỉ viết sách giáo khoa",
+   "Chỉ lập kế hoạch kinh doanh"
+  ],
+  "c": 0,
+  "e": "Thực nghiệm cung cấp số liệu để kiểm chứng hoặc bác bỏ lí thuyết."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí lí thuyết chủ yếu làm công việc gì?",
+  "o": [
+   "Chế tạo máy móc trong nhà máy",
+   "Xây dựng mô hình, giải thích và dự đoán hiện tượng bằng toán học",
+   "Đo trực tiếp mọi đại lượng",
+   "Sản xuất thiết bị điện"
+  ],
+  "c": 1,
+  "e": "Lí thuyết đề xuất mô hình và dự đoán để thực nghiệm kiểm tra."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vật lí tính toán sử dụng công cụ nào để nghiên cứu?",
+  "o": [
+   "Chỉ dùng kính lúp",
+   "Chỉ dùng cân và thước",
+   "Máy tính để mô phỏng các hệ vật lí",
+   "Chỉ dùng quan sát bằng mắt"
+  ],
+  "c": 2,
+  "e": "Mô phỏng giúp nghiên cứu các hệ phức tạp khó thực hiện thí nghiệm."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vì sao nói Vật lí là cơ sở của nhiều ngành khoa học và kĩ thuật?",
+  "o": [
+   "Vì Vật lí là môn học khó nhất",
+   "Vì Vật lí không dùng toán học",
+   "Vì Vật lí chỉ có trong sách",
+   "Vì các quy luật vật lí chi phối mọi hiện tượng tự nhiên và công nghệ"
+  ],
+  "c": 3,
+  "e": "Hóa học, sinh học, địa chất và kĩ thuật đều dựa vào kiến thức vật lí."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Mục tiêu của việc nghiên cứu Vật lí là gì?",
+  "o": [
+   "Tìm hiểu quy luật tự nhiên và vận dụng vào đời sống, sản xuất",
+   "Chỉ để dùng cho thi cử",
+   "Chỉ để chế tạo vũ khí",
+   "Chỉ để sưu tầm hiện vật"
+  ],
+  "c": 0,
+  "e": "Vật lí vừa giải thích thế giới vừa tạo ra công nghệ."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Một nanomet (1 nm) bằng bao nhiêu mét?",
+  "o": [
+   "10^-6 m",
+   "10^-9 m",
+   "10^-3 m",
+   "10^9 m"
+  ],
+  "c": 1,
+  "e": "Nano là tiền tố của 10^-9, thường dùng trong vật lí vật liệu nano."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Cơ học lượng tử chủ yếu mô tả thế giới nào?",
+  "o": [
+   "Thế giới các thiên hà",
+   "Chuyển động của ô tô",
+   "Thế giới vi mô như nguyên tử và hạt",
+   "Chuyển động của con lắc đồng hồ"
+  ],
+  "c": 2,
+  "e": "Vật thể vi mô có những hành vi mà vật lí cổ điển không giải thích được."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Hiện tượng điện trở của một số chất giảm đột ngột về 0 ở nhiệt độ rất thấp được gọi là gì?",
+  "o": [
+   "Siêu âm",
+   "Phóng xạ",
+   "Cộng hưởng",
+   "Siêu dẫn"
+  ],
+  "c": 3,
+  "e": "Siêu dẫn là một chủ đề của vật lí chất rắn."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Máy gia tốc hạt chủ yếu phục vụ nghiên cứu lĩnh vực nào?",
+  "o": [
+   "Vật lí hạt cơ bản và vật lí hạt nhân",
+   "Quang học hình học",
+   "Âm học kiến trúc",
+   "Nhiệt học đại cương"
+  ],
+  "c": 0,
+  "e": "Máy gia tốc tăng tốc hạt đến năng lượng cao để khảo sát cấu trúc vật chất."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Hiện tượng cầu vồng (tán sắc ánh sáng) thuộc lĩnh vực nào?",
+  "o": [
+   "Âm học",
+   "Quang học",
+   "Nhiệt học",
+   "Vật lí hạt nhân"
+  ],
+  "c": 1,
+  "e": "Cầu vồng là kết quả của khúc xạ và tán sắc ánh sáng trong giọt nước."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Nghiên cứu về laser và sợi quang thuộc lĩnh vực nào?",
+  "o": [
+   "Cơ học",
+   "Vật lí địa cầu",
+   "Quang học",
+   "Nhiệt học"
+  ],
+  "c": 2,
+  "e": "Laser và sợi quang đều liên quan đến sự phát và truyền ánh sáng."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Nghiên cứu về transistor và vi mạch bán dẫn thuộc lĩnh vực nào?",
+  "o": [
+   "Vật lí thiên văn",
+   "Âm học",
+   "Cơ học thiên thể",
+   "Vật lí chất rắn"
+  ],
+  "c": 3,
+  "e": "Tính chất của chất bán dẫn là đối tượng của vật lí chất rắn."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Nghiên cứu về phản ứng phân hạch hạt nhân thuộc lĩnh vực nào?",
+  "o": [
+   "Vật lí hạt nhân",
+   "Quang học",
+   "Âm học",
+   "Cơ học chất lưu"
+  ],
+  "c": 0,
+  "e": "Phân hạch là một loại phản ứng hạt nhân."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Nghiên cứu về sóng siêu âm thuộc lĩnh vực nào?",
+  "o": [
+   "Quang học",
+   "Âm học",
+   "Vật lí thiên văn",
+   "Vật lí plasma"
+  ],
+  "c": 1,
+  "e": "Siêu âm là sóng âm có tần số lớn hơn 20 000 Hz."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Nghiên cứu về động cơ nhiệt thuộc lĩnh vực nào?",
+  "o": [
+   "Âm học",
+   "Quang học",
+   "Nhiệt học",
+   "Vật lí hạt cơ bản"
+  ],
+  "c": 2,
+  "e": "Động cơ nhiệt biến đổi nhiệt lượng thành công cơ học."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Nghiên cứu về lực ma sát thuộc lĩnh vực nào?",
+  "o": [
+   "Quang học",
+   "Vật lí nguyên tử",
+   "Vật lí plasma",
+   "Cơ học"
+  ],
+  "c": 3,
+  "e": "Ma sát là một loại lực trong cơ học."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Nghiên cứu về hiện tượng cảm ứng điện từ thuộc lĩnh vực nào?",
+  "o": [
+   "Điện từ học",
+   "Quang học hình học",
+   "Âm học",
+   "Nhiệt học"
+  ],
+  "c": 0,
+  "e": "Cảm ứng điện từ là hiện tượng điện từ cơ bản."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Nghiên cứu về sao neutron và hố đen thuộc lĩnh vực nào?",
+  "o": [
+   "Vật lí chất rắn",
+   "Vật lí thiên văn",
+   "Âm học",
+   "Nhiệt học"
+  ],
+  "c": 1,
+  "e": "Sao neutron và hố đen là các thiên thể được nghiên cứu trong vật lí thiên văn."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vì sao toán học là công cụ quan trọng của Vật lí học?",
+  "o": [
+   "Vì Vật lí chỉ gồm các phép tính",
+   "Vì Vật lí không có thí nghiệm",
+   "Vì cho phép mô tả định lượng và dự đoán các quy luật tự nhiên",
+   "Vì toán học có thể thay thế thí nghiệm hoàn toàn"
+  ],
+  "c": 2,
+  "e": "Công thức toán học giúp diễn đạt chính xác mối quan hệ giữa các đại lượng vật lí."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Thiết bị nào thường được dùng để quan sát các thiên thể xa xôi?",
+  "o": [
+   "Nhiệt kế",
+   "Ampe kế",
+   "Đồng hồ bấm giờ",
+   "Kính thiên văn"
+  ],
+  "c": 3,
+  "e": "Kính thiên văn thu ánh sáng hoặc sóng điện từ từ các thiên thể."
+ },
+ {
+  "b": "Bài 2: Các lĩnh vực nghiên cứu trong Vật lí học",
+  "q": "Vì sao Vật lí học được chia thành nhiều lĩnh vực nghiên cứu?",
+  "o": [
+   "Vì đối tượng nghiên cứu rất rộng và đa dạng",
+   "Vì mỗi lĩnh vực không liên quan nhau",
+   "Vì có quá ít người học",
+   "Vì để tránh dùng toán học"
+  ],
+  "c": 0,
+  "e": "Chia lĩnh vực giúp nghiên cứu sâu từng nhóm hiện tượng, nhưng các lĩnh vực vẫn liên hệ chặt chẽ."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Chụp X-quang trong y tế sử dụng loại bức xạ nào?",
+  "o": [
+   "Sóng âm",
+   "Tia X",
+   "Tia hồng ngoại",
+   "Sóng vô tuyến FM"
+  ],
+  "c": 1,
+  "e": "Tia X xuyên qua cơ thể và bị xương hấp thụ nhiều hơn mô mềm."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Máy chụp cộng hưởng từ (MRI) hoạt động dựa trên điều gì?",
+  "o": [
+   "Siêu âm phản xạ",
+   "Tia gamma từ nhà máy điện",
+   "Từ trường mạnh và sóng vô tuyến tác dụng lên hạt nhân nguyên tử",
+   "Nhiệt độ cơ thể"
+  ],
+  "c": 2,
+  "e": "MRI tạo ảnh chi tiết các mô mềm mà không dùng tia X."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Siêu âm y tế sử dụng loại sóng nào?",
+  "o": [
+   "Sóng hạ âm",
+   "Tia X",
+   "Tia tử ngoại",
+   "Sóng siêu âm"
+  ],
+  "c": 3,
+  "e": "Sóng siêu âm phản xạ ở các mặt phân cách mô để tạo hình ảnh."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Thiết bị nội soi truyền ánh sáng và hình ảnh trong cơ thể nhờ bộ phận nào?",
+  "o": [
+   "Sợi quang",
+   "Dây đồng",
+   "Ống thủy tinh rỗng",
+   "Cuộn dây từ"
+  ],
+  "c": 0,
+  "e": "Sợi quang truyền ánh sáng nhờ hiện tượng phản xạ toàn phần."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Trong phẫu thuật bằng laser, laser được dùng để làm gì?",
+  "o": [
+   "Làm mát vết mổ",
+   "Cắt hoặc đốt mô bằng chùm sáng hẹp, năng lượng lớn",
+   "Truyền âm thanh",
+   "Đo huyết áp"
+  ],
+  "c": 1,
+  "e": "Chùm laser tập trung năng lượng vào vùng rất nhỏ."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Phương pháp xạ trị ung thư dùng gì để tiêu diệt tế bào ung thư?",
+  "o": [
+   "Sóng âm tần số thấp",
+   "Ánh sáng đèn thường",
+   "Tia phóng xạ năng lượng cao như tia gamma hoặc tia X",
+   "Từ trường yếu"
+  ],
+  "c": 2,
+  "e": "Bức xạ ion hóa phá hủy tế bào ung thư."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Nhiệt kế hồng ngoại đo nhiệt độ cơ thể dựa trên điều gì?",
+  "o": [
+   "Sóng siêu âm phản xạ",
+   "Tia X xuyên qua da",
+   "Từ trường của cơ thể",
+   "Bức xạ hồng ngoại do cơ thể phát ra"
+  ],
+  "c": 3,
+  "e": "Vật có nhiệt độ cao hơn phát ra nhiều bức xạ hồng ngoại hơn."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Máy điện tim đồ (ECG) ghi lại điều gì?",
+  "o": [
+   "Hoạt động điện của tim",
+   "Âm thanh của tim",
+   "Nhiệt độ của tim",
+   "Hình ảnh X-quang của tim"
+  ],
+  "c": 0,
+  "e": "Tim hoạt động kèm theo các tín hiệu điện, ECG đo và ghi lại chúng."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Radar thời tiết phát hiện mưa và bão bằng cách nào?",
+  "o": [
+   "Đo nhiệt độ bằng nhiệt kế",
+   "Phát sóng vô tuyến và thu sóng phản xạ từ các hạt mưa",
+   "Chụp ảnh bằng tia X",
+   "Dùng sóng âm dưới nước"
+  ],
+  "c": 1,
+  "e": "Sóng vô tuyến bị phản xạ bởi hạt nước trong mây và mưa."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Vệ tinh khí tượng được dùng để làm gì?",
+  "o": [
+   "Đo độ sâu đại dương",
+   "Chụp ảnh nội tạng",
+   "Quan sát mây, theo dõi bão từ không gian",
+   "Đo huyết áp"
+  ],
+  "c": 2,
+  "e": "Vệ tinh khí tượng cung cấp ảnh mây và dữ liệu cho dự báo thời tiết."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Khí áp kế dùng để đo đại lượng nào?",
+  "o": [
+   "Độ ẩm không khí",
+   "Tốc độ gió",
+   "Lượng mưa",
+   "Áp suất khí quyển"
+  ],
+  "c": 3,
+  "e": "Khí áp kế là dụng cụ đo áp suất của không khí."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Ẩm kế dùng để đo đại lượng nào?",
+  "o": [
+   "Độ ẩm của không khí",
+   "Áp suất khí quyển",
+   "Nhiệt độ",
+   "Tốc độ gió"
+  ],
+  "c": 0,
+  "e": "Độ ẩm là một yếu tố quan trọng trong khí tượng."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Bóng thám không trong khí tượng dùng để làm gì?",
+  "o": [
+   "Phun thuốc trừ sâu",
+   "Đo nhiệt độ, độ ẩm, áp suất ở các tầng cao của khí quyển",
+   "Chụp X-quang",
+   "Truyền hình trực tiếp"
+  ],
+  "c": 1,
+  "e": "Bóng mang thiết bị đo bay lên cao và gửi dữ liệu về mặt đất."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Trong nông nghiệp, cảm biến độ ẩm đất được dùng để làm gì?",
+  "o": [
+   "Chụp X-quang cây",
+   "Phát sóng truyền hình",
+   "Điều khiển hệ thống tưới tự động",
+   "Đo vận tốc ánh sáng"
+  ],
+  "c": 2,
+  "e": "Cảm biến giúp tưới đúng lượng nước, tiết kiệm tài nguyên."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Chiếu xạ bằng tia gamma được dùng trong nông nghiệp để làm gì?",
+  "o": [
+   "Nâng nhiệt độ ruộng",
+   "Làm tăng độ ẩm đất",
+   "Phát sóng truyền thanh",
+   "Tạo giống đột biến hoặc bảo quản nông sản"
+  ],
+  "c": 3,
+  "e": "Chiếu xạ có thể diệt vi sinh vật hoặc gây đột biến có chọn lọc."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Pin mặt trời được dùng trong nông nghiệp (ví dụ chạy bơm nước) vì lí do chính nào?",
+  "o": [
+   "Biến đổi trực tiếp ánh sáng Mặt Trời thành điện năng",
+   "Biến điện thành ánh sáng",
+   "Biến nhiệt thành âm thanh",
+   "Làm lạnh nước"
+  ],
+  "c": 0,
+  "e": "Pin mặt trời hoạt động dựa trên hiệu ứng quang điện (trong)."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Máy bay không người lái (drone) trong nông nghiệp thường được dùng để làm gì?",
+  "o": [
+   "Chụp cộng hưởng từ",
+   "Giám sát cây trồng và phun thuốc",
+   "Đo áp suất khí quyển",
+   "Phát điện hạt nhân"
+  ],
+  "c": 1,
+  "e": "Drone giúp khảo sát cánh đồng rộng và phun thuốc chính xác."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Robot công nghiệp trong dây chuyền tự động hóa chủ yếu vận dụng kiến thức nào?",
+  "o": [
+   "Chỉ thiên văn học",
+   "Chỉ vật lí hạt cơ bản",
+   "Cơ học, điện – điện tử và điều khiển tự động",
+   "Chỉ khí tượng học"
+  ],
+  "c": 2,
+  "e": "Robot kết hợp cơ khí, cảm biến và điều khiển."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Cắt và hàn kim loại bằng laser dựa trên đặc điểm nào của chùm laser?",
+  "o": [
+   "Có thể làm lạnh kim loại",
+   "Chỉ phát ra âm thanh",
+   "Không mang năng lượng",
+   "Năng lượng tập trung rất lớn vào vùng nhỏ"
+  ],
+  "c": 3,
+  "e": "Chùm laser có độ định hướng cao và mật độ năng lượng lớn."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Cáp quang truyền tín hiệu dựa trên hiện tượng vật lí nào?",
+  "o": [
+   "Phản xạ toàn phần",
+   "Cảm ứng điện từ",
+   "Phóng xạ",
+   "Rơi tự do"
+  ],
+  "c": 0,
+  "e": "Ánh sáng bị phản xạ toàn phần liên tiếp bên trong lõi sợi quang."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Vi mạch trong máy tính, điện thoại chủ yếu được chế tạo từ vật liệu nào?",
+  "o": [
+   "Đồng nguyên chất",
+   "Chất bán dẫn như silicon",
+   "Gỗ",
+   "Cao su"
+  ],
+  "c": 1,
+  "e": "Silicon là vật liệu bán dẫn phổ biến nhất trong công nghiệp điện tử."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Sóng vô tuyến (sóng điện từ) được ứng dụng chủ yếu trong lĩnh vực nào?",
+  "o": [
+   "Chữa gãy xương",
+   "Đo độ sâu giếng nước",
+   "Truyền thông tin như radio, truyền hình, điện thoại",
+   "Làm lạnh thực phẩm"
+  ],
+  "c": 2,
+  "e": "Sóng điện từ truyền thông tin đi xa mà không cần dây dẫn."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Radar đo tốc độ phương tiện giao thông dựa trên hiệu ứng nào?",
+  "o": [
+   "Hiệu ứng nhà kính",
+   "Hiệu ứng quang điện",
+   "Hiệu ứng Joule",
+   "Hiệu ứng Doppler"
+  ],
+  "c": 3,
+  "e": "Tần số sóng phản xạ thay đổi theo vận tốc của vật chuyển động."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Tàu đệm từ (maglev) chuyển động dựa trên điều gì?",
+  "o": [
+   "Lực từ nâng và đẩy đoàn tàu khỏi đường ray",
+   "Sức hơi nước",
+   "Sức gió",
+   "Lực đẩy Archimedes"
+  ],
+  "c": 0,
+  "e": "Lực từ giúp giảm ma sát nên tàu đạt tốc độ cao."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Hệ thống phanh ABS trên ô tô có tác dụng chính nào?",
+  "o": [
+   "Làm tăng khối lượng xe",
+   "Ngăn bánh xe bị bó cứng, giúp giữ khả năng điều khiển khi phanh gấp",
+   "Tăng tốc độ xe",
+   "Tăng lượng khí thải"
+  ],
+  "c": 1,
+  "e": "ABS điều chỉnh lực phanh để bánh xe không bị trượt hoàn toàn."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Sonar dùng trong tàu thuyền để làm gì?",
+  "o": [
+   "Chụp ảnh vệ tinh",
+   "Phát hiện máy bay bằng sóng vô tuyến",
+   "Xác định vị trí vật dưới nước bằng sóng âm",
+   "Đo khí áp"
+  ],
+  "c": 2,
+  "e": "Sonar phát sóng âm và thu sóng phản xạ dưới nước."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Radar trong hàng không và quân sự dùng để làm gì?",
+  "o": [
+   "Đo độ ẩm đất",
+   "Chụp cộng hưởng từ",
+   "Tạo điện từ nước",
+   "Phát hiện và xác định vị trí vật thể bằng sóng vô tuyến phản xạ"
+  ],
+  "c": 3,
+  "e": "Radar phát sóng vô tuyến, thu sóng phản xạ để tính khoảng cách và tốc độ."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Pin mặt trời biến đổi trực tiếp quang năng thành dạng năng lượng nào?",
+  "o": [
+   "Điện năng",
+   "Hóa năng",
+   "Cơ năng",
+   "Âm thanh"
+  ],
+  "c": 0,
+  "e": "Quá trình này dựa trên hiệu ứng quang điện."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Nhà máy điện hạt nhân hiện nay khai thác năng lượng từ quá trình nào?",
+  "o": [
+   "Phản ứng cháy than",
+   "Phản ứng phân hạch hạt nhân",
+   "Sự rơi của nước",
+   "Sức gió"
+  ],
+  "c": 1,
+  "e": "Phân hạch giải phóng năng lượng lớn dùng để tạo hơi nước chạy tuabin."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Phương pháp địa chấn trong thăm dò dầu khí, khoáng sản dựa trên điều gì?",
+  "o": [
+   "Sự truyền của ánh sáng khả kiến",
+   "Từ trường của Mặt Trăng",
+   "Sự truyền của sóng địa chấn trong lòng đất",
+   "Sự bay hơi của nước"
+  ],
+  "c": 2,
+  "e": "Sóng phản xạ từ các lớp đất đá giúp suy ra cấu trúc dưới lòng đất."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Máy soi hành lí ở sân bay sử dụng gì để quan sát vật bên trong?",
+  "o": [
+   "Sóng âm hạ âm",
+   "Sóng siêu âm dưới nước",
+   "Tia cực tím từ Mặt Trời",
+   "Tia X"
+  ],
+  "c": 3,
+  "e": "Các vật khác nhau hấp thụ tia X khác nhau nên tạo ảnh."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Kiểm tra vết nứt bên trong kim loại mà không phá hủy vật thường dùng phương pháp nào?",
+  "o": [
+   "Siêu âm hoặc chụp bằng tia X",
+   "Đập vỡ vật rồi quan sát",
+   "Đun sôi vật",
+   "Phơi vật ngoài nắng"
+  ],
+  "c": 0,
+  "e": "Đây là phương pháp kiểm tra không phá hủy trong công nghiệp."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Hệ thống định vị toàn cầu (GPS) hoạt động dựa trên điều gì?",
+  "o": [
+   "Chỉ dùng la bàn",
+   "Vệ tinh phát tín hiệu sóng vô tuyến để xác định vị trí",
+   "Chỉ dùng sóng âm dưới nước",
+   "Chỉ dùng kính thiên văn"
+  ],
+  "c": 1,
+  "e": "Thiết bị thu tín hiệu từ nhiều vệ tinh để tính vị trí."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Kiến thức vật lí về lực và cân bằng giúp ích gì cho ngành xây dựng?",
+  "o": [
+   "Chữa bệnh cho công nhân",
+   "Dự báo thời tiết",
+   "Thiết kế nhà, cầu bền vững và an toàn",
+   "Trồng cây trong nhà kính"
+  ],
+  "c": 2,
+  "e": "Tính toán lực, mômen giúp công trình chịu được tải trọng."
+ },
+ {
+  "b": "Bài 3: Ứng dụng của Vật lí trong một số ngành nghề",
+  "q": "Vì sao kiến thức vật lí quan trọng đối với nhiều ngành nghề?",
+  "o": [
+   "Vì Vật lí là môn bắt buộc phải thi",
+   "Vì Vật lí không có ứng dụng thực tế",
+   "Vì chỉ có nhà vật lí mới dùng thiết bị",
+   "Vì nhiều thiết bị, công nghệ và quy trình hoạt động dựa trên quy luật vật lí"
+  ],
+  "c": 3,
+  "e": "Từ y tế, nông nghiệp đến khí tượng, cơ khí đều dùng nguyên lí vật lí."
+ }
+]
